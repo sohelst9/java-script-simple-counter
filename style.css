@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#app{
+    margin-top: 200px;
+    text-align: center;
+}
+.count_data{
+    font: 2em sans-serif;
+    font-weight: bold;
+}
+.minise_btn{
+    background-color: #edecf1;
+    color: #000000;
+    padding: 0px 15px;
+    font-size: 20px;
+}
+
+.plus_btn{
+    background-color: #edecf1;
+    color: #000000;
+    padding: 0px 15px;
+    font-size: 20px;
+}
